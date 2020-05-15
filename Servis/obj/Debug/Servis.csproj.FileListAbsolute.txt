@@ -1,0 +1,11 @@
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\bin\Debug\Servis.exe.config
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\bin\Debug\Servis.exe
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\bin\Debug\Servis.pdb
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\obj\Debug\Servis.csprojAssemblyReference.cache
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\obj\Debug\Servis.Form1.resources
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\obj\Debug\Servis.Properties.Resources.resources
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\obj\Debug\Servis.csproj.GenerateResource.cache
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\obj\Debug\Servis.csproj.CoreCompileInputs.cache
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\obj\Debug\Servis.exe
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\obj\Debug\Servis.pdb
+C:\Users\yvz\Desktop\Uygulamalar\Servis\Servis\obj\Debug\Servis.FrmRaporlar.resources
